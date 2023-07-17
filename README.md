@@ -1,7 +1,7 @@
 # Heguanzi-analysis
 An epistemic network analysis of semantic patterns in ancient Chinese texts
 
-##Introduction
+#Introduction
 
 The objective of this project is to utilize Epistemic Network Analysis (ENA) techniques to uncover and visualize semantic patterns related to key themes in the ancient Chinese text "鹖冠子" ("Heguanzi"). "鹖冠子" is an influential Daoist text believed to have been authored by a hermit named "鹖冠子" during the Warring States period in the state of Chu. This philosophical work encompasses aspects of Daoism, Legalism, and the art of war. It continues to be studied for its timeless wisdom and its significance in the ancient Chinese philosophical landscape.
 
